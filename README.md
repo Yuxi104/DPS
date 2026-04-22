@@ -1,2 +1,2 @@
 # DPS
-code for DPS
+Code for DPS.
